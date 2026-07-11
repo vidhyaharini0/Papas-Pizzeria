@@ -12,7 +12,7 @@
 
 ## 📖 Overview
 
-Papa's Pizzeria is a full-stack restaurant ordering and management web application developed using PHP, MySQL, JavaScript, HTML, CSS, and Docker. The system enables customers to browse menu items, place online orders, manage their profiles, and communicate with the restaurant, while providing administrators with dedicated tools for product management, order processing, and user administration.
+Papa's Pizzeria is a Dockerized full-stack restaurant ordering and management web application built with PHP, MySQL, JavaScript, HTML, and CSS. The system enables customers to browse menu items, place online orders, manage their profiles, and communicate with the restaurant, while providing administrators with dedicated tools for product management, order processing, and user administration.
 
 The project demonstrates practical software engineering principles including modular application design, database-driven development, session-based authentication, responsive web interfaces, and containerized deployment.
 
