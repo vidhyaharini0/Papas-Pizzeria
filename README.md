@@ -90,7 +90,7 @@ init.sql
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
 ### Clone the repository
 
